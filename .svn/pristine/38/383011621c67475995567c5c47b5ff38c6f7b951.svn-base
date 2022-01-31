@@ -1,0 +1,1517 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv='cache-control' content='no-cache'>
+    <meta http-equiv='expires' content='0'>
+    <meta http-equiv='pragma' content='no-cache'>
+
+    <title>Clauz | Cúster Automotriz Zona Centro</title>
+
+    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
+
+    <!-- google fonts -->
+    <link href="//fonts.googleapis.com/css2?family=Jost:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <!-- Template CSS -->
+    <link rel="stylesheet" href="assets/css/style-starter.css">
+    <link rel="stylesheet" href="assets/css/netcon.css">
+</head>
+
+<body>
+    <!--header-->
+    <header id="site-header" class="fixed-top nav-fixed">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-dark stroke">
+                <a class="navbar-brand" href="#index.html">
+                    <img src="assets/images/logo.png" alt="Clauz" title="Clauz" style="height:auto;" />
+                </a>
+                <button class="navbar-toggler  collapsed bg-gradient" type="button" data-toggle="collapse"
+                    data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon fa icon-expand fa-bars"></span>
+                    <span class="navbar-toggler-icon fa icon-close fa-times"></span>
+                    </span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+                    <ul class="navbar-nav mx-lg-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="index.html">Inicio <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item @@about__active">
+                            <a class="nav-link" href="#about">Nosotros</a>
+                        </li>
+                        <li class="nav-item @@services__active">
+                            <a class="nav-link" href="#services">Comités</a>
+                        </li>
+                        <li class="nav-item @@contact__active">
+                            <a class="nav-link" href="#gallery">Miembros</a>
+                        </li>
+                        <li class="nav-item @@contact__active">
+                            <a class="nav-link" href="#news">Noticias</a>
+                        </li>
+                        <li class="nav-item @@contact__active">
+                            <a class="nav-link" href="avisos.html">¿Qué hay en el CLAUZ?</a>
+                        </li> 
+                        <li class="nav-item @@contact__active">
+                            <a class="nav-link" href="#footer">Contacto</a>
+                        </li>
+                    </ul>
+                </div>
+
+
+                <!-- toggle switch for light and dark theme -->
+                <div class="mobile-position">
+                    <nav class="navigation">
+                        <div class="theme-switch-wrapper">
+                            <label class="theme-switch" for="checkbox">
+                                <input type="checkbox" id="checkbox">
+                                <div class="mode-container py-1">
+                                    <i class="gg-sun"></i>
+                                    <i class="gg-moon"></i>
+                                </div>
+                            </label>
+                        </div>
+                    </nav>
+                </div>
+                <!-- //toggle switch for light and dark theme -->
+            </nav>
+
+        </div>
+    </header>
+    <!--/header-->
+
+    <div class="color-palate">
+        <div class="color-trigger">
+            <img class="logo-flotante img-fluid" src="assets/images/afiliate.png" data-toggle="modal" data-target="#mdlInscripcion" style="cursor: pointer;">
+        </div>
+    </div>
+
+    <div class="color-palate2">
+        <div class="color-trigger">
+            
+        </div>
+    </div>
+
+    <!-- Trigger the modal with a button -->    
+
+    <!-- Modal -->
+    <div id="mdlInscripcion" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <img class="logo-flotante img-fluid" src="assets/images/promo.jpeg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="mdlWebinar" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <p class="text-justify" style="font-size: 0.85em;">
+                        La Secretaría de Economía del Estado de Puebla se complace en invitarle al webinar/taller “Uso Estratégico de la Propiedad Intelectual para el Fortalecimiento de Negocios” el cual se realizará el día 16 de diciembre del presente año a las 11:00 hrs.
+                    </p>
+                    <p class="text-justify" style="margin-top: 15px; font-size: 0.85em;">
+                        Dicho programa tiene como objetivo dar a conocer las herramientas y las metodologías de aprovechamiento estratégico de la propiedad intelectual con el apoyo de la Asociación de Directivos de la Investigación Aplicada y el Desarrollo Tecnológico (ADIAT A.C.), de tal manera que las empresas consideren la implementación gradual de estas herramientas en sus empresas, negocios etc.
+                    </p>    
+                    <p class="text-justify" style="margin-top: 15px; font-size: 0.85em;">
+                        Esperamos contar con su valiosa presencia al webinar, agradeciendo de antemano su previo registro en la siguiente liga:
+                    </p>    
+                    <p class="text-justify" style="margin-top: 15px;">
+                        <div class="cta-btn text-center" data-animation="fadeInUp" data-delay="1s">
+                            <a target="_blank" href="http://se.puebla.gob.mx/webinar-propiedad-intelectual" class="btn btn-style btn-primary" >Registro</a>
+                        </div>
+                    </p>    
+                    <p class="text-center" style="margin-top: 15px; font-size: 0.85em;">
+                        (Al término de su registro recibirá la liga y contraseña de acceso al webinar)
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- hero slider Start -->
+    <div class="banner-wrap">
+        <div class="banner-slider">
+            <!-- hero slide start -->
+            <div class="banner-slide bg" style="background: url(assets/images/carrusel/bg01.jpg) no-repeat top; background-size: cover;">
+                <div class="container">
+                    <div class="hero-content">
+                        <h1 data-animation="flipInX" data-delay="0.8s" data-color="#fff">
+                            Construcción de una política industrial a largo plazo
+                        </h1>
+                        <p data-animation="fadeInDown" class="mt-4">
+                            Acuerda MBH con empresarios
+                        </p>
+                        <div class="cta-btn" data-animation="fadeInUp" data-delay="1s">
+                            <a target="_blank" href="https://puebla.gob.mx/index.php/noticias/item/7222-construccion-de-una-politica-industrial-a-largo-plazo-acuerda-mbh-con-empresarios" class="btn btn-style btn-primary">Saber Más...</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="hero-overlay"></div>
+            </div>
+            <!-- hero slide end -->
+            
+
+            <div class="banner-slide bg" style="background: url(assets/images/carrusel/bg14.jpg) no-repeat top; background-size: cover;">
+                <div class="container">
+                    <div class="hero-content">
+                        <h1 data-animation="fadeInUp" data-color="#fff" data-delay="0.8s">
+                            Fortalezimiento de la cadena de valor Automotriz impulsada por datos
+                        </h1>
+                        <p data-animation="fadeInUp" class="mt-4">
+                            Evento
+                        </p>
+                        <div class="row">
+                            <div class="cta-btn" data-animation="fadeInDown" data-delay="1s">
+                                <a target="_blank" href="assets/images/data/valor_automotriz.png" class="btn btn-style btn-primary">Saber Más...</a>
+                            </div>
+                            &nbsp;&nbsp;&nbsp;
+                            <div class="cta-btn" data-animation="fadeInDown" data-delay="1s">
+                                <a target="_blank" href="https://us02web.zoom.us/webinar/register/WN_xT7sb1DVQDKDan5DDGfAPA" class="btn btn-style btn-primary">Registro</a>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="hero-overlay"></div>
+            </div>
+
+            <div class="banner-slide bg" style="background: url(assets/images/carrusel/bg15.jpg) no-repeat top; background-size: cover;">
+                <div class="container">
+                    <div class="hero-content">
+                        <h1 data-animation="fadeInUp" data-color="#fff" data-delay="0.8s">
+                            Feria de Créditos Pyme
+                        </h1>
+                        <p data-animation="fadeInUp" class="mt-4">
+                            28 Enero 2022
+                        </p>
+                        <div class="row">
+                            <div class="cta-btn" data-animation="fadeInDown" data-delay="1s">
+                                <a target="_blank" href="assets/images/data/creditos_pyme.png" class="btn btn-style btn-primary">Saber Más...</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="hero-overlay"></div>
+            </div>
+
+            <div class="banner-slide bg" style="background: url(assets/images/carrusel/bg06.jpg) no-repeat top; background-size: cover;">
+                <div class="container">
+                    <div class="hero-content">
+                        <h1 data-animation="fadeInUp" data-color="#fff" data-delay="0.8s">
+                            Perspectivas de la industria de vehículos ligeros para el 2022
+                        </h1>
+                        <p data-animation="fadeInUp" class="mt-4">
+                            Webinar
+                        </p>
+                        <div class="row">
+                            <div class="cta-btn" data-animation="fadeInDown" data-delay="1s">
+                                <a target="_blank" href="assets/images/data/perspectivas_webinar.jpeg" class="btn btn-style btn-primary">Saber Más...</a>
+                            </div>
+                            &nbsp;&nbsp;&nbsp;
+                            <div class="cta-btn" data-animation="fadeInDown" data-delay="1s">
+                                <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfS6A-cRTAJp4vGlRDtCLY84cW2A14obUgWx7uyxKJmFPLkyg/viewform" class="btn btn-style btn-primary">Registro</a>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="hero-overlay"></div>
+            </div>
+
+            <div class="banner-slide bg" style="background: url(assets/images/carrusel/bg05.jpg) no-repeat top; background-size: cover;">
+                <div class="container">
+                    <div class="hero-content">
+                        <h1 data-animation="fadeInUp" data-color="#fff" data-delay="0.8s">
+                            2022 Projections in the North American Auto Industry
+
+                        </h1>
+                        <p data-animation="fadeInUp" class="mt-4">
+                            
+                        </p>
+                        <div class="row">
+                            <div class="cta-btn" data-animation="fadeInDown" data-delay="1s">
+                                <a target="_blank" href="https://clarkhill.zoom.us/webinar/register/1516389047273/WN_5WzKdCVXS1C2PtFJ6k3hmg" class="btn btn-style btn-primary">Registro</a>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="hero-overlay"></div>
+            </div>
+
+            <div class="banner-slide bg" style="background: url(assets/images/carrusel/bg07.jpg) no-repeat top; background-size: cover;">
+                <div class="container">
+                    <div class="hero-content">
+                        <h1 data-animation="fadeInUp" data-color="#fff" data-delay="0.8s">
+                            Educación Continua de la Universidad Tecnológica de Puebla
+                        </h1>
+                        <p data-animation="fadeInUp" class="mt-4">
+                            
+                        </p>
+                        <div class="cta-btn" data-animation="fadeInDown" data-delay="1s">
+                            <a target="_blank" href="assets/images/data/educacion_continua.jpeg" class="btn btn-style btn-primary">Saber Más...</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="hero-overlay"></div>
+            </div>
+            <div class="banner-slide bg" style="background: url(assets/images/carrusel/bg08.jpg) no-repeat top; background-size: cover;">
+                <div class="container">
+                    <div class="hero-content">
+                        <h1 data-animation="fadeInUp" data-color="#fff" data-delay="0.8s">
+                            Día del proveedor del Tren Maya
+                        </h1>
+                        <p data-animation="fadeInUp" class="mt-4">
+                            
+                        </p>
+                        <div class="cta-btn" data-animation="fadeInDown" data-delay="1s">
+                            <a target="_blank" href="https://www.alstom.com/es/dia-del-proveedor-del-tren-maya" class="btn btn-style btn-primary">Saber Más...</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="hero-overlay"></div>
+            </div>
+            <!-- hero slide end -->
+        </div>
+        <div class="shape">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 280">
+                <path fill-opacity="1">
+                    <animate attributeName="d" dur="20000ms" repeatCount="indefinite"
+                        values="M0,160L48,181.3C96,203,192,245,288,261.3C384,277,480,267,576,234.7C672,203,768,149,864,117.3C960,85,1056,75,1152,90.7C1248,107,1344,149,1392,170.7L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z; M0,160L48,181.3C96,203,192,245,288,234.7C384,224,480,160,576,133.3C672,107,768,117,864,138.7C960,160,1056,192,1152,197.3C1248,203,1344,181,1392,170.7L1440,160L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z;												 M0,64L48,74.7C96,85,192,107,288,133.3C384,160,480,192,576,170.7C672,149,768,75,864,80C960,85,1056,171,1152,181.3C1248,192,1344,128,1392,96L1440,64L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z;
+                         M0,160L48,181.3C96,203,192,245,288,261.3C384,277,480,267,576,234.7C672,203,768,149,864,117.3C960,85,1056,75,1152,90.7C1248,107,1344,149,1392,170.7L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z;" />
+
+                </path>
+
+            </svg>
+        </div>
+    </div>
+    <!-- hero slider end -->
+
+        
+
+    <!-- home page about section -->
+    <section class="w3l-homeblock1" id="about">
+        <div class="midd-w3 py-5">
+            <div class="container py-lg-5 py-md-3">
+                <div class="row align-items-center">
+                    <div class="col-lg-12">
+                        <span class="title-small">&nbsp;</span>
+                        <h3 class="title-big">Mensaje de Bienvenida</h3>
+                        <p class="mt-md-4 mt-3">
+                            El Clúster Automotriz Zona Centro te da la más cordial bienvenida y te invita a conocer cada
+                            uno de los servicios y beneficios
+                            que ofrecemos desde cada uno de los comités que conforman nuestro organismo, y que llevamos
+                            a cabo para elevar el desarrollo y
+                            competitividad de uno de los sectores más importantes del país a nuestros socios afiliados y
+                            así, cumplir con el propósito de
+                            fortalecer al sector Automotriz en la región de Puebla – Tlaxcala y alrededores.
+                        </p>
+                        <p class="mt-md-4 mt-3">
+                            Así pues, trabajaremos hombro a hombro para ser referentes y punta de lanza por una
+                            industria solvente y con certidumbre laboral,
+                            económica y de desarrollo.
+                        </p>
+                        <ul class="service-list pt-lg-2 mt-4">
+                            <li class="service-link">
+                                <a href=""><span class="fa fa-check-circle"></span>
+                                    Consejo Directivo del Clúster Automotriz Zona Centro (CLAUZ)
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- //home page about section -->      
+
+    <!-- features section -->
+    <section class="w3l-features py-5" id="work">
+        <div class="container py-lg-5 py-md-4 py-2">
+            <div class="row main-cont-wthree-2 align-items-center">
+                <div class="col-lg-12 feature-grid-right mt-lg-0 mt-md-5 mt-4">
+                    <div class="call-grids-w3 d-grid">
+                        <div class="grids-1 box-wrap">
+                            <div class="icon">
+                                <img src="assets/images/aboutus.png" alt="" class="img-fluid">
+                            </div>
+                            <h4><a href="" class="title-head">Nosotros</a></h4>
+                            <p style="padding-top: 20px;">
+                                Somos una Asociación que agrupa a empresas del sector automotriz, universidades y
+                                gobierno que conjuntamente colaboran para lograr alcances
+                                competitivos en pro al desarrollo Industrial Automotriz de Puebla y Tlaxcala.
+                            </p>
+                        </div>
+                        <div class="grids-1 box-wrap">
+                            <div class="icon">
+                                <img src="assets/images/mision.png" alt="" class="img-fluid">
+                            </div>
+                            <h4><a href="" class="title-head">Misión</a></h4>
+                            <p style="padding-top: 20px;">
+                                Ser el espacio de encuentro del ecosistema de la industria automotriz de la región
+                                Puebla -Tlaxcala que facilita e instrumenta la
+                                vinculación, la colaboración y la coordinación entre empresas, instituciones académicas
+                                y gobierno para promover y fortalecer las
+                                capacidades y competencias humanas, tecnológicas y productivas de las empresas de la
+                                industria, así como construir las condiciones
+                                para un ambiente que favorezca el desarrollo integral y sustentable de toda la cadena de
+                                valor en la región.
+                            </p>
+                        </div>
+                        <div class="grids-1 box-wrap">
+                            <div class="icon">
+                                <img src="assets/images/vision.png" alt="" class="img-fluid">
+                            </div>
+                            <h4><a href="" class="title-head">Visión</a></h4>
+                            <p style="padding-top: 20px;">
+                                Que Puebla y Tlaxcala sea una de las regiones lideres en desarrollo y competitividad
+                                para la industria automotriz de la región.
+                            </p>
+                        </div>
+
+                        <div class="grids-1 box-wrap">
+                            <div class="icon">
+                                <img src="assets/images/objetivo.png" alt="" class="img-fluid">
+                            </div>
+                            <h4><a href="" class="title-head">Objetivo</a></h4>
+                            <p style="padding-top: 20px;">
+                                Contribuir a la construcción de una región prospera, de progreso, de vanguardia y
+                                bienestar cuya imagen sea reconocida
+                                como tal en Norteamérica y en el resto del Mundo.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- features section -->
+    <!--  services section -->
+    <div class="w3l-servicesblock2" id="services">
+        <section id="grids5-block" class="py-5">
+            <div class="container py-lg-5 py-md-4 py-2">
+                <h3 class="title-big text-center">COMITÉS</h3>
+                <div class="row mt-lg-5 mt-4 text-center">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="grids5-info">
+                            <a href="comites.html#dh" class="d-block zoom"><img src="assets/images/s1.jpg" alt=""
+                                    class="img-fluid service-image" /></a>
+                            <div class="blog-info">
+                                <a href="comites.html#dh" class="title">Desarrollo Humano</a>
+                                <p class="text-para">
+                                    Fortalecemos el Capital Humano en las empresas del sector automotriz de la región a
+                                    través de la detección de áreas
+                                    de oportunidad, el trabajo en equipo, las mejores prácticas, la experiencia y el
+                                    desarrollo humano.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-md-0 mt-5">
+                        <div class="grids5-info">
+                            <a href="comites.html#pv" class="d-block zoom"><img src="assets/images/s2.jpg" alt=""
+                                    class="img-fluid service-image" /></a>
+                            <div class="blog-info">
+                                <a href="comites.html#pv" class="title">Proveeduría</a>
+                                <p class="text-para">
+                                    Elevamos el nivel de competitividad de la Cadena de Suministro de la Industria
+                                    Automotriz de la región para incrementar el
+                                    contenido nacional, a través de la colaboracion, vinculación y sinergias entre
+                                    Gobierno, Academia y Empresas.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-lg-0 mt-5">
+                        <div class="grids5-info">
+                            <a href="comites.html#it" class="d-block zoom"><img src="assets/images/s3.jpg" alt=""
+                                    class="img-fluid service-image" /></a>
+                            <div class="blog-info">
+                                <a href="comites.html#it" class="title">Innovación y Tecnología</a>
+                                <p class="text-para">
+                                    Trabajamos colaborativamente industria, academia y gobierno en impulsar y fomentar
+                                    la cultura de innovación en las empresas del CLAUZ,
+                                    incrementanto las capacidades regionales de ingeniería, investigación, desarrollo
+                                    tecnológico e innovación así como la realización
+                                    de proyectos conjuntos de mejora.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-lg-0 mt-5">
+
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-lg-0 mt-5">
+                        <div class="grids5-info">
+                            <a href="comites.html#if" class="d-block zoom"><img src="assets/images/s4.jpg" alt=""
+                                    class="img-fluid service-image" /></a>
+                            <div class="blog-info">
+                                <a href="comites.html#if" class="title">Inversión y Financiamiento</a>
+                                <p class="text-para">
+                                    Ampliamos la capacidad productiva del Sector Automotriz en el contexto de las
+                                    prioridades regionales de la zona contribuyendo de manera
+                                    significativa para el logro de los objetivos y metas de los programas
+                                    correspondientes.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-12 feature-grid-left pr-lg-5 text-center">
+                        <a href="comites.html" class="btn btn-style btn-primary mt-lg-5 mt-4">Saber Más...</a>
+                    </div>
+                </div>
+
+
+            </div>
+        </section>
+    </div>
+    <!--  //services section -->
+    <section class="w3l-gallery py-5" id="beneficios">
+        <div class="container py-lg-5 py-md-4 py-2">
+            <div class="title-content text-center mb-5">
+                <h3 class="title-big text-center">BENEFICIOS</h3>
+            </div>
+            <div class="col-lg-12">
+                <div class="cwp23-text-cols mt-lg-5 mt-4">
+                    <p class="mt-md-4 mt-3 text-center" style="font-size: 1.16em;">
+                        El Clúster Automotriz Zona Centro, fortalece la cadena de valor del ecosistema del Sector
+                        Automotriz, a través del acercamiento y
+                        vinculación con Gobiernos (en sus tres niveles), Instituciones de educación técnica superior e
+                        industrias del gremio, para
+                        integrar y desarrollar la proveeduría y talento local de la Zona Centro.
+                    </p>
+                    <br />
+                    <div class="column">
+                        <p><span class="fa fa-check-circle" style="color:#00a63f;"></span> Integración y colaboración en
+                            los Comités de trabajo. (Desarrollo Humano, Innovación y Desarrollo de Proveedores)</p>
+                        <p><span class="fa fa-check-circle" style="color:#00a63f;"></span> Atención y servicio a socios
+                            afiliados</p>
+                        <p><span class="fa fa-check-circle" style="color:#00a63f;"></span> Gestión de proyectos para el
+                            sector</p>
+                        <p><span class="fa fa-check-circle" style="color:#00a63f;"></span> Apoyo en materia de atracción
+                            de inversiones</p>
+                        <p><span class="fa fa-check-circle" style="color:#00a63f;"></span> Generación, análisis de
+                            información relevantes a la industria</p>
+                        <p><span class="fa fa-check-circle" style="color:#00a63f;"></span> Conexión con la red nacional
+                            de clústeres automotrices</p>
+                        <p><span class="fa fa-check-circle" style="color:#00a63f;"></span> Alianzas estratégicas con
+                            organismos internacionales y nacionales especializados en la industria</p>
+                        <p><span class="fa fa-check-circle" style="color:#00a63f;"></span> Networking</p>
+                        <p><span class="fa fa-check-circle" style="color:#00a63f;"></span> Trajes de capacitación y
+                            desarrollo humano a la medida</p>
+                        <p><span class="fa fa-check-circle" style="color:#00a63f;"></span> Acercamiento a las entidades
+                            gubernamentales que te apoyan en trámites</p>
+                        <p><span class="fa fa-check-circle" style="color:#00a63f;"></span> Promotor de la Educación DUAL
+                        </p>
+                    </div>
+                    <br />
+                    <div class="column">
+                        <h4>Alianzas</h4>
+                        <p>REDCAM</p>
+                        <p>INA</p>
+                        <p>AMIA</p>
+                        <p>AIAG</p>
+                        <p>CAMEXA</p>
+                        <p>FUNDACIÓN WADHWANI</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="w3l-about4 py-5" id="cover">
+		<div class="container px-0 py-lg-5 py-md-4 py-2">
+			<div class="history-info position-relative">
+				<div class="heading mx-auto text-center">
+					<h3 class="title-big">
+                        El Clúster Automotriz Zona Centro
+                    </h3>
+					<p class="mt-3">
+                        Fortalece la cadena de valor del ecosistema del Sector Automotriz, a través del acercamiento y vinculación con Gobiernos (en sus tres niveles), 
+                        Instituciones de educación técnica superior e industrias del gremio, para integrar y desarrollar la proveeduría y talento local de la Zona Centro. 
+                    </p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+    <section class="w3l-blog">
+        <div class="w3l-gallery py-5" id="news">
+            <div class="container py-lg-5 py-md-4 py-2">
+                <h3 class="title-big text-center mb-sm-5 mb-4">ÚLTIMAS NOTICIAS</h3>
+
+
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 item">
+                        <div class="card">
+                            <div class="card-header p-0 position-relative">
+                                <a target="_blank" href="https://www.eleconomista.com.mx/empresas/Link-EV-anuncia-inversion-de-265-millones-de-dolares-para-construir-planta-de-autos-electricos-en-Puebla-20220125-0051.html" class="zoom d-block">
+                                    <img class="card-img-bottom d-block" src="assets/images/news/enero/10.jpg"
+                                        alt="Card image cap">
+                                </a>
+                            </div>
+                            <div class="card-body blog-details">
+                                <a target="_blank" href="https://www.eleconomista.com.mx/empresas/Link-EV-anuncia-inversion-de-265-millones-de-dolares-para-construir-planta-de-autos-electricos-en-Puebla-20220125-0051.html" class="blog-desc">
+                                    Link EV invertirá 265 MDD para planta en Puebla
+                                </a>
+                            </div>
+                            <div class="card-footer">
+                                <div class="align-items-center">
+                                    <div class="date text-right">
+                                        <p>25 Enero, 2022</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 item">
+                        <div class="card">
+                            <div class="card-header p-0 position-relative">
+                                <a target="_blank" href="assets/files/Boletín_Eventos_3.pdf" class="zoom d-block">
+                                    <img class="card-img-bottom d-block" src="assets/images/news/enero/09.jpg"
+                                        alt="Card image cap">
+                                </a>
+                            </div>
+                            <div class="card-body blog-details">
+                                <a target="_blank" href="assets/files/Boletín_Eventos_3.pdf" class="blog-desc">
+                                    Boletín de exposiciones, ferias y eventos internacionales 2022
+                                </a>
+                            </div>
+                            <div class="card-footer">
+                                <div class="align-items-center">
+                                    <div class="date text-right">
+                                        <p>20 Enero, 2022</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 item">
+                        <div class="card">
+                            <div class="card-header p-0 position-relative">
+                                <a target="_blank" href="https://www.urbeconomica.com.mx/mesoregiones/latinoamerica/33100-volkswagen-invertira-mil-millones-de-euros-en-america-latina" class="zoom d-block">
+                                    <img class="card-img-bottom d-block" src="assets/images/news/enero/07.jpg"
+                                        alt="Card image cap">
+                                </a>
+                            </div>
+                            <div class="card-body blog-details">
+                                <a target="_blank" href="https://www.urbeconomica.com.mx/mesoregiones/latinoamerica/33100-volkswagen-invertira-mil-millones-de-euros-en-america-latina" class="blog-desc">
+                                    Volkswagen invertirá mil millones de euros en América Latina 
+                                </a>
+                            </div>
+                            <div class="card-footer">
+                                <div class="align-items-center">
+                                    <div class="date text-right">
+                                        <p>19 Enero, 2022</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 item">
+                        <div class="card">
+                            <div class="card-header p-0 position-relative">
+                                <a target="_blank" href="assets/files/MITOFSKY_El Coronavirus.pdf" class="zoom d-block">
+                                    <img class="card-img-bottom d-block" src="assets/images/news/enero/08.jpg"
+                                        alt="Card image cap">
+                                </a>
+                            </div>
+                            <div class="card-body blog-details">
+                                <a target="_blank" href="assets/files/MITOFSKY_El Coronavirus.pdf" class="blog-desc">
+                                    Encuesta Mitofsky. El Coronavirus en México
+                                </a>
+                            </div>
+                            <div class="card-footer">
+                                <div class="align-items-center">
+                                    <div class="date text-right">
+                                        <p>17 Enero, 2022</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 item">
+                        <div class="card">
+                            <div class="card-header p-0 position-relative">
+                                <a target="_blank" href="https://www.urbeconomica.com.mx/sectores-economicos/industrial/33078-relevos-en-la-industria-nacional-de-autopartes" class="zoom d-block">
+                                    <img class="card-img-bottom d-block" src="assets/images/news/enero/06.jpg"
+                                        alt="Card image cap">
+                                </a>
+                            </div>
+                            <div class="card-body blog-details">
+                                <a target="_blank" href="https://www.urbeconomica.com.mx/sectores-economicos/industrial/33078-relevos-en-la-industria-nacional-de-autopartes" class="blog-desc">
+                                    Relevos en la Industria Nacional de Autopartes 
+                                </a>
+                            </div>
+                            <div class="card-footer">
+                                <div class="align-items-center">
+                                    <div class="date text-right">
+                                        <p>17 Enero, 2022</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 item">
+                        <div class="card">
+                            <div class="card-header p-0 position-relative">
+                                <a target="_blank" href="https://www.urbeconomica.com.mx/sectores-economicos/industrial/33017-audi-se-prepara-para-nueva-version-de-la-suv-q5-en-planta-puebla" class="zoom d-block">
+                                    <img class="card-img-bottom d-block" src="assets/images/news/enero/05.jpg"
+                                        alt="Card image cap">
+                                </a>
+                            </div>
+                            <div class="card-body blog-details">
+                                <a target="_blank" href="https://www.urbeconomica.com.mx/sectores-economicos/industrial/33017-audi-se-prepara-para-nueva-version-de-la-suv-q5-en-planta-puebla" class="blog-desc">
+                                    Audi se prepara para nueva versión de la SUV Q5 en planta Puebla
+                                </a>
+                            </div>
+                            <div class="card-footer">
+                                <div class="align-items-center">
+                                    <div class="date text-right">
+                                        <p>12 Enero, 2022</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 item">
+                        <div class="card">
+                            <div class="card-header p-0 position-relative">
+                                <a target="_blank" href="https://www.forbes.com.mx/retos-de-la-industria-automotriz-frente-al-2022/" class="zoom d-block">
+                                    <img class="card-img-bottom d-block" src="assets/images/news/enero/04.jpg"
+                                        alt="Card image cap">
+                                </a>
+                            </div>
+                            <div class="card-body blog-details">
+                                <a target="_blank" href="https://www.forbes.com.mx/retos-de-la-industria-automotriz-frente-al-2022/" class="blog-desc">
+                                    Retos de la Industria Automotriz frente al 2022
+                                </a>
+                            </div>
+                            <div class="card-footer">
+                                <div class="align-items-center">
+                                    <div class="date text-right">
+                                        <p>07 Enero, 2022</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 item">
+                        <div class="card">
+                            <div class="card-header p-0 position-relative">
+                                <a target="_blank" href="assets/files/Inegi_Automotriz2.pdf" class="zoom d-block">
+                                    <img class="card-img-bottom d-block" src="assets/images/news/06/01.jpg"
+                                        alt="Card image cap">
+                                </a>
+                            </div>
+                            <div class="card-body blog-details">
+                                <a target="_blank" href="assets/files/Inegi_Automotriz2.pdf" class="blog-desc">
+                                    Resultado del Registro Administrativo de la Industria Automotriz de Vehículos Ligeros
+                                </a>
+                            </div>
+                            <div class="card-footer">
+                                <div class="align-items-center">
+                                    <div class="date text-right">
+                                        <p>07 Enero, 2022</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 item">
+                        <div class="card">
+                            <div class="card-header p-0 position-relative">
+                                <a target="_blank" href="https://urbeconomica.com/sectores-economicos/industrial/32964-puebla-1-en-produccion-automotriz-en-diciembre" class="zoom d-block">
+                                    <img class="card-img-bottom d-block" src="assets/images/news/enero/03.jpg"
+                                        alt="Card image cap">
+                                </a>
+                            </div>
+                            <div class="card-body blog-details">
+                                <a target="_blank" href="https://urbeconomica.com/sectores-economicos/industrial/32964-puebla-1-en-produccion-automotriz-en-diciembre" class="blog-desc">
+                                    Puebla 1ª en Producción Automotriz en Diciembre
+                                </a>
+                            </div>
+                            <div class="card-footer">
+                                <div class="align-items-center">
+                                    <div class="date text-right">
+                                        <p>07 Enero, 2022</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 item">
+                        <div class="card">
+                            <div class="card-header p-0 position-relative">
+                                <a target="_blank" href="https://urbeconomica.com/mesoregiones/t-mec/32950-solicita-mexico-panel-contra-eeuu-por-disputa-de-reglas-de-origen-del-sector-automotriz" class="zoom d-block">
+                                    <img class="card-img-bottom d-block" src="assets/images/news/enero/02.jpg"
+                                        alt="Card image cap">
+                                </a>
+                            </div>
+                            <div class="card-body blog-details">
+                                <a target="_blank" href="https://urbeconomica.com/mesoregiones/t-mec/32950-solicita-mexico-panel-contra-eeuu-por-disputa-de-reglas-de-origen-del-sector-automotriz" class="blog-desc">
+                                    Solicita México panel contra EEUU por reglas en el sector automotriz
+                                </a>
+                            </div>
+                            <div class="card-footer">
+                                <div class="align-items-center">
+                                    <div class="date text-right">
+                                        <p>06 Enero, 2022</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 item">
+                        <div class="card">
+                            <div class="card-header p-0 position-relative">
+                                <a target="_blank" href="https://urbeconomica.com/sectores-economicos/industrial/32947-volkswagen-presentara-id-buzz-microbus-en-marzo" class="zoom d-block">
+                                    <img class="card-img-bottom d-block" src="assets/images/news/enero/01.jpg"
+                                        alt="Card image cap">
+                                </a>
+                            </div>
+                            <div class="card-body blog-details">
+                                <a target="_blank" href="https://urbeconomica.com/sectores-economicos/industrial/32947-volkswagen-presentara-id-buzz-microbus-en-marzo" class="blog-desc">
+                                    Volkswagen presentará ID Buzz Microbus en marzo 
+                                </a>
+                            </div>
+                            <div class="card-footer">
+                                <div class="align-items-center">
+                                    <div class="date text-right">
+                                        <p>06 Enero, 2022</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 item">
+                        <div class="card">
+                            <div class="card-header p-0 position-relative">
+                                <a target="_blank" href="assets/files/Inegi_Automotriz.pdf" class="zoom d-block">
+                                    <img class="card-img-bottom d-block" src="assets/images/news/06/01.jpg"
+                                        alt="Card image cap">
+                                </a>
+                            </div>
+                            <div class="card-body blog-details">
+                                <a target="_blank" href="assets/files/Inegi_Automotriz.pdf" class="blog-desc">
+                                    Registro Administrativo de la Industria Automotriz de Vehículos Ligeros
+                                </a>
+                            </div>
+                            <div class="card-footer">
+                                <div class="align-items-center">
+                                    <div class="date text-right">
+                                        <p>05 Enero, 2022</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 item">
+                        <div class="card">
+                            <div class="card-header p-0 position-relative">
+                                <a target="_blank" href="https://www.urbeconomica.com.mx/sectores-economicos/industrial/32907-noviembre-2021-el-mejor-registro-en-exportaciones-desde-el-inicio-de-la-pandemia" class="zoom d-block">
+                                    <img class="card-img-bottom d-block" src="assets/images/news/05/01.jpg"
+                                        alt="Card image cap">
+                                </a>
+                            </div>
+                            <div class="card-body blog-details">
+                                <a target="_blank" href="https://www.urbeconomica.com.mx/sectores-economicos/industrial/32907-noviembre-2021-el-mejor-registro-en-exportaciones-desde-el-inicio-de-la-pandemia" class="blog-desc">
+                                    Noviembre 2021, el mejor registro en exportaciones desde el inicio de la pandemia
+                                </a>
+                            </div>
+                            <div class="card-footer">
+                                <div class="align-items-center">
+                                    <div class="date text-right">
+                                        <p>03 Enero, 2022</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 item">
+                        <div class="card">
+                            <div class="card-header p-0 position-relative">
+                                <a target="_blank" href="https://www.elfinanciero.com.mx/economia/2021/12/14/canada-busca-alinear-con-eu-incentivos-para-autos-electricos/" class="zoom d-block">
+                                    <img class="card-img-bottom d-block" src="assets/images/news/04/01.jpg"
+                                        alt="Card image cap">
+                                </a>
+                            </div>
+                            <div class="card-body blog-details">
+                                <a target="_blank" href="https://www.elfinanciero.com.mx/economia/2021/12/14/canada-busca-alinear-con-eu-incentivos-para-autos-electricos/" class="blog-desc">
+                                    Canadá quiere ‘copiar’ estímulos a autos eléctricos de EU
+                                    <br/>&nbsp;
+                                </a>
+                            </div>
+                            <div class="card-footer">
+                                <div class="align-items-center">
+                                    <div class="date text-right">
+                                        <p>14 Diciembre, 2021</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 item">
+                        <div class="card">
+                            <div class="card-header p-0 position-relative">
+                                <a target="_blank" href="https://www.clusterindustrial.com.mx/noticia/4281/volkswagen-de-mexico-arranca-produccion-del-nuevo-jetta-2022?utm_medium=Bolet%C3%ADn+06+de+diciembre+21&utm_source=getresponse&utm_content=Volkswagen+de+M%C3%A9xico+arranca+producci%C3%B3n+del+Nuevo+Jetta+2022&utm_campaign=" class="zoom d-block">
+                                    <img class="card-img-bottom d-block" src="assets/images/news/02/01.jpg"
+                                        alt="Card image cap">
+                                </a>
+                            </div>
+                            <div class="card-body blog-details">
+                                <a target="_blank" href="https://www.clusterindustrial.com.mx/noticia/4281/volkswagen-de-mexico-arranca-produccion-del-nuevo-jetta-2022?utm_medium=Bolet%C3%ADn+06+de+diciembre+21&utm_source=getresponse&utm_content=Volkswagen+de+M%C3%A9xico+arranca+producci%C3%B3n+del+Nuevo+Jetta+2022&utm_campaign=" class="blog-desc">
+                                    Volkswagen de México arranca producción del Nuevo Jetta 2022
+                                    <br/>&nbsp;
+                                </a>
+                            </div>
+                            <div class="card-footer">
+                                <div class="align-items-center">
+                                    <div class="date text-right">
+                                        <p>06 Diciembre, 2021</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 item">
+                        <div class="card">
+                            <div class="card-header p-0 position-relative">
+                                <a target="_blank" href="https://mexicoindustry.com/noticia/audi-mexico-implementa-acciones-para-garantizar-la-salud-y-seguridad-de-sus-colaboradores" class="zoom d-block">
+                                    <img class="card-img-bottom d-block" src="assets/images/news/03/01.jpg"
+                                        alt="Card image cap">
+                                </a>
+                            </div>
+                            <div class="card-body blog-details">
+                                <a target="_blank" href="https://mexicoindustry.com/noticia/audi-mexico-implementa-acciones-para-garantizar-la-salud-y-seguridad-de-sus-colaboradores" class="blog-desc">
+                                    Audi México implementa acciones para garantizar la salud y seguridad de sus colaboradores
+                                </a>
+                            </div>
+                            <div class="card-footer">
+                                <div class="align-items-center">
+                                    <div class="date text-right">
+                                        <p>06 Diciembre, 2021</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 item">
+                        <div class="card">
+                            <div class="card-header p-0 position-relative">
+                                <a href="new_single.html" class="zoom d-block">
+                                    <img class="card-img-bottom d-block" src="assets/images/news/01/blog1.jpg"
+                                        alt="Card image cap">
+                                </a>
+                            </div>
+                            <div class="card-body blog-details">
+                                <a href="new_single.html" class="blog-desc">
+                                    Retos y Estrategia de la Industria Automotriz para el 2022
+                                    <br/>&nbsp;
+                                </a>
+                            </div>
+                            <div class="card-footer">
+                                <div class="align-items-center">
+                                    <div class="date text-right">
+                                        <p>24 Noviembre, 2021</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+    
+
+    <section class="w3l-servicesblock2 py-5" id="gallery">
+        <div class="container py-lg-5 py-md-4 py-2">
+            <div class="title-content text-center mb-5">
+                <h3 class="title-big mx-lg-5">MIEMBROS</h3>
+            </div>
+
+            <div class="title-content text-center mb-2">
+                <h3 class="title-small">SOCIOS HONORARIOS</h3>
+            </div>
+
+            <!-- Company logos -->
+            <div class="row company-logos pt-3 mt-3 justify-content-center">
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://www.audi.com.mx/mx/web/es.html" target="_blank">
+                        <img src="assets/images/miembros/audi.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://www.vw.com.mx/es.html" target="_blank">
+                        <img src="assets/images/miembros/vw.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+            </div>
+
+            <div class="title-content text-center mb-2 mt-5">
+                <h3 class="title-small">ALIADOS ESTRATÉGICOS</h3>
+            </div>
+            <!-- Company logos -->
+            <div class="row company-logos pt-3 mt-3 justify-content-center">
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://canacintrapuebla.org.mx/" target="_blank">
+                        <img src="assets/images/miembros/canacintra.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="http://www.sedecotlaxcala.gob.mx/" target="_blank">
+                        <img src="assets/images/miembros/sedeco.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="http://se.puebla.gob.mx/" target="_blank">
+                        <img src="assets/images/miembros/seconomia.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://deforest.mx/" target="_blank">
+                        <img src="assets/images/miembros/deforest.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://www.concytep.gob.mx/" target="_blank">
+                        <img src="assets/images/miembros/concytep.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+            </div>
+
+            <div class="title-content text-center mb-2 mt-5">
+                <h3 class="title-small">UNIVERSIDADES E INSTITUTOS</h3>
+            </div>
+            <!-- Company logos -->
+            <div class="row company-logos pt-3 mt-3 justify-content-center">
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="http://www.utpuebla.edu.mx/" target="_blank">
+                        <img src="assets/images/miembros/utp.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://upaep.mx/" target="_blank">
+                        <img src="assets/images/miembros/upaep.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="http://uptlax.edu.mx/" target="_blank">
+                        <img src="assets/images/miembros/uptx.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://www.iberopuebla.mx/" target="_blank">
+                        <img src="assets/images/miembros/ibero.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://utbispuebla.edu.mx/" target="_blank">
+                        <img src="assets/images/miembros/utbis.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://icami.mx/" target="_blank">
+                        <img src="assets/images/miembros/icami.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://www.upamozoc.edu.mx/" target="_blank">
+                        <img src="assets/images/miembros/upam.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://tlaxco.tecnm.mx/" target="_blank">
+                        <img src="assets/images/miembros/tlaxco.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+            </div>
+
+            <div class="title-content text-center mb-2 mt-5">
+                <h3 class="title-small">SOCIOS</h3>
+            </div>
+
+            <div class="row company-logos pt-3 mt-3 justify-content-center">
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://concorde.com.mx/" target="_blank">
+                        <img src="assets/images/miembros/concorde.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://mx.edag.com/es/" target="_blank">
+                        <img src="assets/images/miembros/edag.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://www.odw-elektrik.com/en/company/locations/mexico/" target="_blank">
+                        <img src="assets/images/miembros/owd.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://www.benteler.com/es/" target="_blank">
+                        <img src="assets/images/miembros/benteler.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://www.engiemexico.com/" target="_blank">
+                        <img src="assets/images/miembros/engie.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://www.globalflock.com/" target="_blank">
+                        <img src="assets/images/miembros/global_flock.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://www.brose.com/mx-es/brose-in-mexico/" target="_blank">
+                        <img src="assets/images/miembros/brose.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://www.glmgroup.com/en/home-3/" target="_blank">
+                        <img src="assets/images/miembros/glm.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a target="_blank">
+                        <img src="assets/images/miembros/clerprem.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="http://unicarmex.com/" target="_blank">
+                        <img src="assets/images/miembros/unicar.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://www.allgaier-automotive.com/es/allgaier-de-puebla-sapi-de-cv-mexico" target="_blank">
+                        <img src="assets/images/miembros/allgaier.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a target="_blank">
+                        <img src="assets/images/miembros/lear.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a target="_blank">
+                        <img src="assets/images/miembros/ideal.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://www.smp-automotive.com/en/global/puebla" target="_blank">
+                        <img src="assets/images/miembros/smp.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a target="_blank">
+                        <img src="assets/images/miembros/coindu.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a target="_blank">
+                        <img src="assets/images/miembros/cebi.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://plasticrepair.mx/sobre-nosotros/" target="_blank">
+                        <img src="assets/images/miembros/prs.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://tergum.com.mx/" target="_blank">
+                        <img src="assets/images/miembros/tergum.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="" target="_blank">
+                        <img src="assets/images/miembros/spd.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://www.proquipusa.com/" target="_blank">
+                        <img src="assets/images/miembros/proquipusa.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://www.rassini.com/" target="_blank">
+                        <img src="assets/images/miembros/rassini.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="http://norm.com.mx/" target="_blank">
+                        <img src="assets/images/miembros/norm.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="http://siimsa.com.mx/" target="_blank">
+                        <img src="assets/images/miembros/siimsa.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://www.jopp.com/es/" target="_blank">
+                        <img src="assets/images/miembros/jopp.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://www.ceocompany.com.mx/" target="_blank">
+                        <img src="assets/images/miembros/corrugados.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://www.fischer-group.com/" target="_blank">
+                        <img src="assets/images/miembros/fischer.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://www.matrix-sa.com/" target="_blank">
+                        <img src="assets/images/miembros/matrix.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://www.trefilados.com.mx/" target="_blank">
+                        <img src="assets/images/miembros/tim.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://antex.net/es/" target="_blank">
+                        <img src="assets/images/miembros/antex.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://web.frimo.com/es/company/frimo-empresa.html" target="_blank">
+                        <img src="assets/images/miembros/frimo.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://netconmx.com/" target="_blank">
+                        <img src="assets/images/miembros/netcon.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="" target="_blank">
+                        <img src="assets/images/miembros/ferguson.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="" target="_blank">
+                        <img src="assets/images/miembros/somatics.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="http://www.ferper.it/?lang=en" target="_blank">
+                        <img src="assets/images/miembros/ferper.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://sonavox-group.com/service_area/sonavox-mexico/" target="_blank">
+                        <img src="assets/images/miembros/sonavox.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="http://www.treckautomotive.com/" target="_blank">
+                        <img src="assets/images/miembros/treck.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://anaerobia.com/" target="_blank">
+                        <img src="assets/images/miembros/anaerobia.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="" target="_blank">
+                        <img src="assets/images/miembros/cidaut.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-3 col-4 mb-2">
+                    <a href="https://www.mci-technology.com.mx/es/" target="_blank">
+                        <img src="assets/images/miembros/mci.png" alt="" class="img-fluid">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- home page progress section -->
+    <section class="w3l-gallery w3l-progress" id="progress" style="display: none;">
+        <div class="midd-w3 py-5">
+            <div class="container py-lg-5 py-md-4 py-2">
+                <div class="row align-items-center">
+                    <div class="col-lg-6">
+                        <img src="assets/images/produccion.png" alt="" class="radius-image img-fluid">
+                    </div>
+                    <div class="col-lg-6 mt-lg-0 mt-md-5 mt-4">
+                        <h3 class="title-big mb-4 pb-lg-2">PRODUCCIÓN</h3>
+                        <div class="progress-info info1">
+                            <h6 class="progress-tittle">Industria Manufacturera es Automotriz <span
+                                    class="">44.1%</span></h6>
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped gradient-1" role="progressbar"
+                                    style="width: 44.1%" aria-valuenow="44.1" aria-valuemin="0" aria-valuemax="100">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="progress-info info2">
+                            <h6 class="progress-tittle">Empleos Directos e Indirectos <span class="">80 mil</span>
+                            </h6>
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped gradient-2" role="progressbar"
+                                    style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="progress-info info4 mb-0">
+                            <h6 class="progress-tittle">Eslabones Cadena de Suministro Automotriz Mexicana <span
+                                    class="">93%</span></h6>
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped gradient-4" role="progressbar"
+                                    style="width: 93%" aria-valuenow="93" aria-valuemin="0" aria-valuemax="100">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- //home page progress section -->
+
+    <!-- footer -->
+    <footer class="w3l-footer-29-main" id="footer">
+        <div class="footer-29 py-5">
+            <div class="container py-md-4">
+                <div class="row footer-top-29">
+                    <div class="col-lg-4 col-md-6 footer-list-29 footer-1">
+                        <div class="footer-logo mb-4">
+                            <a class="navbar-brand" href="index.html">
+                                <img src="assets/images/logo_white.png" alt="" title="" style="height:100px;" />
+                            </a>
+                        </div>
+                        <div class="main-social-footer-29 mt-md-4 mt-3">
+                            <a href="https://www.facebook.com/clauzmx/" target="_blank" class="facebook"><span class="fa fa-facebook"></span></a>
+                            <a href="https://twitter.com/clauz_mx/" target="_blank" class="twitter"><span class="fa fa-twitter"></span></a>
+                            <a href="https://www.instagram.com/clauzmx/" target="_blank" class="instagram"><span class="fa fa-instagram"></span></a>
+                            <a href="https://www.linkedin.com/company/clauz/" target="_blank" class="linkedin"><span class="fa fa-linkedin"></span></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 footer-list-29 footer-1 pr-lg-5 mt-md-0 mt-5">
+                        <h6 class="footer-title-29">Contacto</h6>
+                        <p class="mb-2">Calle Osa Mayor 2523, Reserva Territorial Atlixcáyotl, Corredor Comercial
+                            Desarrollo Atlixcayotl, 72193 Puebla, Puebla</p>
+                        <p class="mb-2">Número de Teléfono : <a href="tel:(222) 141-4853">(222) 141-4853</a></p>
+                        <p class="mb-2">Email : <a href="mailto:rguzman@clauz.mx">rguzman@clauz.mx</a></p>
+                    </div>
+                    <div class="col-lg-4 col-md-6 footer-list-29 footer-1 pr-lg-5 mt-md-0 mt-5">
+                        <a class="navbar-brand" href="aviso.html">
+                            Aviso de Privacidad
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- copyright -->
+        <section class="w3l-copyright text-center">
+            <div class="container">
+                <p class="copy-footer-29">© 2021 Clauz. Todos los Derechos Reservados. Powered by <a
+                        href="https://netconmx.com" target="_blank">
+                        netcon</a></p>
+            </div>
+
+            <!-- move top -->
+            <button onclick="topFunction()" id="movetop" title="Go to top">
+                &#10548;
+            </button>
+            <script>
+                // When the user scrolls down 20px from the top of the document, show the button
+                window.onscroll = function () {
+                    scrollFunction()
+                };
+
+                function scrollFunction() {
+                    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                        document.getElementById("movetop").style.display = "block";
+                    } else {
+                        document.getElementById("movetop").style.display = "none";
+                    }
+                }
+
+                // When the user clicks on the button, scroll to the top of the document
+                function topFunction() {
+                    document.body.scrollTop = 0;
+                    document.documentElement.scrollTop = 0;
+                }
+            </script>
+            <!-- /move top -->
+        </section>
+        <!-- //copyright -->
+    </footer>
+    <!-- //footer -->
+
+
+    <!-- Template JavaScript -->
+    <script src="assets/js/jquery-3.3.1.min.js"></script>
+    <script src="assets/js/theme-change.js"></script>
+
+    <!-- libhtbox -->
+    <script src="assets/js/lightbox-plus-jquery.min.js"></script>
+    <!-- libhtbox -->
+
+    <!-- banner slick slider -->
+    <script src="assets/js/slick.js"></script>
+    <script src="assets/js/script.js"></script>
+    <!-- //banner slick slider -->
+
+    <!-- magnific popup -->
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+
+    <!-- let it snow -->
+    <script src="assets/js/jquery.snow.min.1.0.js"></script>
+    
+    <script>
+        $(document).ready(function () {
+
+            //$.fn.snow();
+		    //$.fn.snow({ minSize: 5, maxSize: 50, newOn: 1000, flakeColor: '#4D6991' });
+
+            $('.popup-with-zoom-anim').magnificPopup({
+                type: 'inline',
+
+                fixedContentPos: false,
+                fixedBgPos: true,
+
+                overflowY: 'auto',
+
+                closeBtnInside: true,
+                preloader: false,
+
+                midClick: true,
+                removalDelay: 3000,
+                mainClass: 'my-mfp-zoom-in'
+            });
+
+            $('.popup-with-move-anim').magnificPopup({
+                type: 'inline',
+
+                fixedContentPos: false,
+                fixedBgPos: true,
+
+                overflowY: 'auto',
+
+                closeBtnInside: true,
+                preloader: false,
+
+                midClick: true,
+                removalDelay: 3000,
+                mainClass: 'my-mfp-slide-bottom'
+            });
+        });
+    </script>
+    <!-- //magnific popup -->
+
+    <!-- script for tesimonials carousel slider -->
+    <script src="assets/js/owl.carousel.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $("#owl-demo1").owlCarousel({
+                loop: true,
+                margin: 20,
+                nav: false,
+                responsiveClass: true,
+                responsive: {
+                    0: {
+                        items: 1,
+                        nav: false
+                    },
+                    768: {
+                        items: 1,
+                        nav: false
+                    },
+                    1000: {
+                        items: 1,
+                        nav: false,
+                        loop: false
+                    }
+                }
+            })
+        })
+    </script>
+    <!-- //script for tesimonials carousel slider -->
+
+    <!-- disable body scroll which navbar is in active -->
+    <script>
+        $(function () {
+            $('.navbar-toggler').click(function () {
+                $('body').toggleClass('noscroll');
+            })
+        });
+    </script>
+    <!-- disable body scroll which navbar is in active -->
+
+    <!--/MENU-JS-->
+    <script>
+        $(window).on("scroll", function () {
+            var scroll = $(window).scrollTop();
+
+            if (scroll >= 80) {
+                //$("#site-header").addClass("nav-fixed");
+            } else {
+                //$("#site-header").removeClass("nav-fixed");
+            }
+        });
+
+        //Main navigation Active Class Add Remove
+        $(".navbar-toggler").on("click", function () {
+            $("header").toggleClass("active");
+        });
+        $(document).on("ready", function () {
+            if ($(window).width() > 991) {
+                $("header").removeClass("active");
+            }
+            $(window).on("resize", function () {
+                if ($(window).width() > 991) {
+                    $("header").removeClass("active");
+                }
+            });
+        });
+    </script>
+    <!--//MENU-JS-->
+
+    <!-- Search -->
+    <script>
+        $('.control').click(function () {
+            $('body').addClass('search-active');
+            $('.input-search').focus();
+        });
+
+        $('.icon-close').click(function () {
+            $('body').removeClass('search-active');
+        });
+    </script>
+    <!-- //Search -->
+
+    <script src="assets/js/bootstrap.min.js"></script>
+
+
+</body>
+
+</html>
